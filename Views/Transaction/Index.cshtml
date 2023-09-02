@@ -4,11 +4,8 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>All Details</h1>
 
-<p>
-    <a asp-action="CreateorEdit">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -16,16 +13,10 @@
                 @Html.DisplayNameFor(model => model.accountHolderName)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.accountNumber)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.bankName)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.amount)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.date)
+            <th>                
+                <a asp-action="CreateorEdit" class="btn btn-sm btn-success"><i class="fa-solid fa-plus"></i> New</a>
             </th>
             <th></th>
         </tr>
@@ -34,24 +25,22 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.accountHolderName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.accountNumber)
+                <a asp-action="Details" asp-route-id="@item.id">@Html.DisplayFor(modelItem => item.accountHolderName)</a>
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.bankName)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.amount)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.date)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            <td>                   
+                <form asp-action="Delete" asp-route-id="@item.id">
+                    <div class="btn-group btn-group-sm">
+                        <a asp-action="CreateorEdit" asp-route-id="@item.id" class="btn btn-sm btn-warning">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <button type="Submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure to delete this record?')">
+                            <i class="fa fa-trash" aria-hidden="true"></i>
+                        </button>
+                    </div>                    
+                </form>             
             </td>
         </tr>
 }

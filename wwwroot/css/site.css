@@ -16,3 +16,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.form-group input[type = submit],
+.form-group label {
+    text-transform: uppercase
+}
+
+.form-group label{
+    color: gray
+}
+

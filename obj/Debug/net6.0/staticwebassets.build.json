@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OenDVbB8GMgNrQ/BV+hUe9LimE3g7TEOhPWH7tc5KpI=",
+  "Hash": "/w5jry35YVPCkOLpmfdrvmbq7ApgvrqgbGtQEH/fg8c=",
   "Source": "CRUD_Operation",
   "BasePath": "_content/CRUD_Operation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUD_Operation\\wwwroot",
       "Source": "CRUD_Operation",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CRUD_Operation.styles.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CRUD_Operation.styles.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "CRUD_Operation.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CRUD_Operation.styles.css"
+      "OriginalItemSpec": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CRUD_Operation.styles.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CRUD_Operation.bundle.scp.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CRUD_Operation.bundle.scp.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "CRUD_Operation.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Code\\C#\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CRUD_Operation.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CRUD_Operation.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\css\\site.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\favicon.ico",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\js\\site.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CRUD_Operation",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code\\C#\\CRUD_Operation\\wwwroot\\",
+      "ContentRoot": "D:\\Code\\ASP .NET Core\\CRUD_Operation\\wwwroot\\",
       "BasePath": "_content/CRUD_Operation",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

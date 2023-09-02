@@ -8,8 +8,10 @@
 <div class="row">
     <div class="col-md-6">
         <h4>Transaction</h4>
-        <form asp-action="Create">
+        <form asp-action="CreateorEdit" autocomplete="off">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id"/>
+            <input type="hidden" asp-for="date"/>
             <div class="form-group">
                 <label asp-for="accountHolderName" class="control-label"></label>
                 <input asp-for="accountHolderName" class="form-control" />
